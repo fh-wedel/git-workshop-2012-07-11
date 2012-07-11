@@ -11,10 +11,10 @@ hr {display: none; visibility: hidden;}
 :focus {outline: 0;}
 
 body {
-	background-color: #666;
-	color: #eee;
+	background-color: #eee;
+	color: #666;
 }
 
 a {
-	color: #99F;
+	color: #B55;
 }
